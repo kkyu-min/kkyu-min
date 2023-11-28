@@ -1,4 +1,4 @@
-### Hi!! I'm Backend developer using Spring boot
+### 😁 Hi there!
 
 <!--
 **kkyu-min/kkyu-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
